@@ -1,0 +1,8 @@
+md5: ee9d950875bc091cefa85a22ac0eec04
+wdir: .
+outs:
+- md5: 27afd898c2ce7d167301276d4663958b
+  path: hits0712.csv
+  cache: true
+  metric: false
+  persist: false

@@ -1,0 +1,8 @@
+md5: 7baf97389f839f9313db0769e28a2722
+wdir: .
+outs:
+- md5: 4152b614587661a651469eacd8d6887c
+  path: hist_trx.csv
+  cache: true
+  metric: false
+  persist: false
